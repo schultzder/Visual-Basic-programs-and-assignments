@@ -1,0 +1,12 @@
+J:\VB.NET\schultzder_Lab3\bin\Debug\schultzder_Lab3.exe.config
+J:\VB.NET\schultzder_Lab3\bin\Debug\schultzder_Lab3.exe
+J:\VB.NET\schultzder_Lab3\bin\Debug\schultzder_Lab3.pdb
+J:\VB.NET\schultzder_Lab3\bin\Debug\schultzder_Lab3.xml
+J:\VB.NET\schultzder_Lab3\obj\Debug\schultzder_Lab3.vbprojResolveAssemblyReference.cache
+J:\VB.NET\schultzder_Lab3\obj\Debug\schultzder_Lab3.Form1.resources
+J:\VB.NET\schultzder_Lab3\obj\Debug\schultzder_Lab3.Resources.resources
+J:\VB.NET\schultzder_Lab3\obj\Debug\schultzder_Lab3.vbproj.GenerateResource.cache
+J:\VB.NET\schultzder_Lab3\obj\Debug\schultzder_Lab3.vbproj.CoreCompileInputs.cache
+J:\VB.NET\schultzder_Lab3\obj\Debug\schultzder_Lab3.exe
+J:\VB.NET\schultzder_Lab3\obj\Debug\schultzder_Lab3.xml
+J:\VB.NET\schultzder_Lab3\obj\Debug\schultzder_Lab3.pdb

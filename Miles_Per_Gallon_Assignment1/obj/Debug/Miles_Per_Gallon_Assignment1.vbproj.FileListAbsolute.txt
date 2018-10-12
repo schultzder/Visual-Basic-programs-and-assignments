@@ -1,0 +1,12 @@
+J:\VB.NET\Miles_Per_Gallon_Assignment1\bin\Debug\Miles_Per_Gallon_Assignment1.exe.config
+J:\VB.NET\Miles_Per_Gallon_Assignment1\bin\Debug\Miles_Per_Gallon_Assignment1.exe
+J:\VB.NET\Miles_Per_Gallon_Assignment1\bin\Debug\Miles_Per_Gallon_Assignment1.pdb
+J:\VB.NET\Miles_Per_Gallon_Assignment1\bin\Debug\Miles_Per_Gallon_Assignment1.xml
+J:\VB.NET\Miles_Per_Gallon_Assignment1\obj\Debug\Miles_Per_Gallon_Assignment1.vbprojResolveAssemblyReference.cache
+J:\VB.NET\Miles_Per_Gallon_Assignment1\obj\Debug\Miles_Per_Gallon_Assignment1.Form1.resources
+J:\VB.NET\Miles_Per_Gallon_Assignment1\obj\Debug\Miles_Per_Gallon_Assignment1.Resources.resources
+J:\VB.NET\Miles_Per_Gallon_Assignment1\obj\Debug\Miles_Per_Gallon_Assignment1.vbproj.GenerateResource.cache
+J:\VB.NET\Miles_Per_Gallon_Assignment1\obj\Debug\Miles_Per_Gallon_Assignment1.vbproj.CoreCompileInputs.cache
+J:\VB.NET\Miles_Per_Gallon_Assignment1\obj\Debug\Miles_Per_Gallon_Assignment1.exe
+J:\VB.NET\Miles_Per_Gallon_Assignment1\obj\Debug\Miles_Per_Gallon_Assignment1.xml
+J:\VB.NET\Miles_Per_Gallon_Assignment1\obj\Debug\Miles_Per_Gallon_Assignment1.pdb

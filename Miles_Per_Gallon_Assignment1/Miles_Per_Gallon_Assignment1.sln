@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Miles_Per_Gallon_Assignment1", "Miles_Per_Gallon_Assignment1.vbproj", "{6A37046D-3EB4-41B8-8A30-4BD77A9565D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A37046D-3EB4-41B8-8A30-4BD77A9565D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A37046D-3EB4-41B8-8A30-4BD77A9565D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A37046D-3EB4-41B8-8A30-4BD77A9565D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A37046D-3EB4-41B8-8A30-4BD77A9565D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB88CDEE-354B-4E1D-8400-36DB34680F50}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+J:\VB.NET\schultzder_Assignment2\bin\Debug\schultzder_Assignment2.exe.config
+J:\VB.NET\schultzder_Assignment2\bin\Debug\schultzder_Assignment2.exe
+J:\VB.NET\schultzder_Assignment2\bin\Debug\schultzder_Assignment2.pdb
+J:\VB.NET\schultzder_Assignment2\bin\Debug\schultzder_Assignment2.xml
+J:\VB.NET\schultzder_Assignment2\obj\Debug\schultzder_Assignment2.vbprojResolveAssemblyReference.cache
+J:\VB.NET\schultzder_Assignment2\obj\Debug\schultzder_Assignment2.Form1.resources
+J:\VB.NET\schultzder_Assignment2\obj\Debug\schultzder_Assignment2.Resources.resources
+J:\VB.NET\schultzder_Assignment2\obj\Debug\schultzder_Assignment2.vbproj.GenerateResource.cache
+J:\VB.NET\schultzder_Assignment2\obj\Debug\schultzder_Assignment2.vbproj.CoreCompileInputs.cache
+J:\VB.NET\schultzder_Assignment2\obj\Debug\schultzder_Assignment2.exe
+J:\VB.NET\schultzder_Assignment2\obj\Debug\schultzder_Assignment2.xml
+J:\VB.NET\schultzder_Assignment2\obj\Debug\schultzder_Assignment2.pdb

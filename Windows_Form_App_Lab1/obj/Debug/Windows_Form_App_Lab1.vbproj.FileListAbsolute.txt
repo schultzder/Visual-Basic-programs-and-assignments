@@ -1,0 +1,11 @@
+J:\VB.NET\Windows_Form_App_Lab1\bin\Debug\Windows_Form_App_Lab1.exe.config
+J:\VB.NET\Windows_Form_App_Lab1\bin\Debug\Windows_Form_App_Lab1.exe
+J:\VB.NET\Windows_Form_App_Lab1\bin\Debug\Windows_Form_App_Lab1.pdb
+J:\VB.NET\Windows_Form_App_Lab1\bin\Debug\Windows_Form_App_Lab1.xml
+J:\VB.NET\Windows_Form_App_Lab1\obj\Debug\Windows_Form_App_Lab1.vbprojResolveAssemblyReference.cache
+J:\VB.NET\Windows_Form_App_Lab1\obj\Debug\Windows_Form_App_Lab1.Resources.resources
+J:\VB.NET\Windows_Form_App_Lab1\obj\Debug\Windows_Form_App_Lab1.vbproj.GenerateResource.cache
+J:\VB.NET\Windows_Form_App_Lab1\obj\Debug\Windows_Form_App_Lab1.vbproj.CoreCompileInputs.cache
+J:\VB.NET\Windows_Form_App_Lab1\obj\Debug\Windows_Form_App_Lab1.exe
+J:\VB.NET\Windows_Form_App_Lab1\obj\Debug\Windows_Form_App_Lab1.xml
+J:\VB.NET\Windows_Form_App_Lab1\obj\Debug\Windows_Form_App_Lab1.pdb
